@@ -1,0 +1,1 @@
+# Please redirect to [../lab1](../lab1) to check Lab 1
