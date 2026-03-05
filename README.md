@@ -1,4 +1,4 @@
-# COMP 3111 Labs
+# HKUST COMP 3111 Labs
 
 ## Project Structure
 - [`src/main/java`](src/main/java) - Contains all the lab files
